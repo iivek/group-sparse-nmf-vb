@@ -13,10 +13,8 @@ A short note: even though the formulation allows for inferring labels of unlabel
 
 ## Example
 
-Decomposition with group sparsity penalization, _20Newsgroups_ dataset
-![Plain sparsity](20NewsgroupsGroupSparse.svg) 
-Decomposition with plain sparsity penalization, _20Newsgroups_ dataset
-![Plain sparsity](20NewsgroupsSparse.svg) 
+_20Newsgroups_ dataset. Left: group sparsity penalization; right: sparsity penalization.
+![Plain sparsity](20Newsgroups.svg)
 
 ## References
 
